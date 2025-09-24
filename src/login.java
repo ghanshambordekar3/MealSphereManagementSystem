@@ -252,7 +252,7 @@ public class login extends JFrame implements ActionListener {
             return;
         }
 
-        String url = "PotobaFoods";
+        String url = "MealSphereManagementSystem";
         String user = "root";
         String password = "admin";
         String mysqlPath = "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysql.exe";

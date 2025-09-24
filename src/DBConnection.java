@@ -7,7 +7,7 @@ import java.awt.*;
 
 public class DBConnection {
     public static Connection getDBConnection() {
-        String url = "jdbc:mysql://localhost:3306/PotobaFoods?useSSL=false&serverTimezone=UTC";
+        String url = "jdbc:mysql://localhost:3306/MealSphereManagementSystem?useSSL=false&serverTimezone=UTC";
         String user = "root";
         String password = "admin";
         Connection con = null;
